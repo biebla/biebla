@@ -119,7 +119,7 @@
 
 <br/>  
 
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31itiqlb5gdnnaqbzpqljt6ky4kq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31itiqlb5gdnnaqbzpqljt6ky4kq&cover_image=true&theme=default&show_offline=true&background_color=000000&bar_color_cover=true)  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31itiqlb5gdnnaqbzpqljt6ky4kq&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>  
 
