@@ -32,7 +32,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning next.js and three.js  
+- 🌱 I’m currently learning React.js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
