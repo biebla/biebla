@@ -1,6 +1,6 @@
 </td><td valign="top" width="50%">
 <div align="center">
-<img src="http://chillthoughts.com/post/36730406593" align="center" style="width: 100%" />
+<img src="https://media1.giphy.com/media/Zt6W9aiKkUSZy/giphy.gif?cid=ecf05e47j7njrmcl7yxny77lmtp93cue6wo0j8t65ouln7pp&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
 <br/>  
 <h3 align="left">Languages and Tools:</h3>
