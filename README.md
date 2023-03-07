@@ -29,15 +29,6 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-  
-
-- ❓ Ask me about anything related to Web Dev technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
 
 </td><td valign="top" width="50%">
 
